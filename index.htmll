@@ -40,9 +40,8 @@
         <div class="card">
             <h2>📥 Descargar la App</h2>
             <p>Obtén la aplicación gratuita y recibe un versículo diario con análisis, reflexión y oración.</p>
-            <a href="#" class="download-btn">📱 Descargar para Android</a>
-            <p class="version">Versión 1.0.0 — Próximamente disponible</p>
-        </div>
+            <a href="app-armeabi-v7a-release.apk" class="download-btn">📱 Descargar para Android</a>
+            <p class="version">Versión 1.0.0 — ✅ Ya disponible!</p>
 
         <footer>
             <p>© 2026 Versículo del Día — Hecho con ❤️ y fe</p>
@@ -50,3 +49,4 @@
     </div>
 </body>
 </html>
+
